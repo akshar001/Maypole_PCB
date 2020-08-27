@@ -1,0 +1,24 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At PM 12:06:27 On 06-08-2020
+
+Output: Copy Files
+Type  : Copy Files
+From  : Project [PRJ_T3.PrjPCB]
+   Generated File[Standard_Job.OutJob]
+   Generated File[CUSTOM PCB.PcbLib]
+   Generated File[CUSTOM TNY290PG.SchLib]
+   Generated File[Miscellaneous Connectors.PcbLib]
+   Generated File[Miscellaneous Connectors.SchLib]
+   Generated File[Miscellaneous Devices.PcbLib]
+   Generated File[Miscellaneous Devices.SchLib]
+   Generated File[VEGG_PcbLib_ALT.PcbLib]
+   Generated File[VEGG_Schlib.SchLib]
+   Generated File[PIC0_D4_SD_card_T3.PcbDoc]
+   Generated File[PICO_D4_SD_CARD_T3.SchDoc]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At PM 12:06:27 On 06-08-2020

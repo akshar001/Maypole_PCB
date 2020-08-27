@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+D:\Harit\Harit\#Projects\PIC0_D4_SD_card\PICOD4_T3_LDO\Project Outputs for PRJ_T3\08_Pick and Place\Pick Place\Pick Place for PIC0_D4_SD_card_T3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06-08-20
+Time:       15:35
+Revision:   e59321952c95fdad803779a8d3878b4e6f4a4bc1
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Value"
+"R19","Res1","TopLayer","resc0402","9.2842","12.8339","360","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"R13","Res1","TopLayer","resc0402","9.2824","13.8387","180","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"D5","ESD9X5.0ST5G","TopLayer","SOD-923","10.8458","6.9850","90","12.3V Clamp 8.7A (8/20µs) Ipp Tvs Diode Surface Mount SOD-923",""
+"D4","ESD9X5.0ST5G","TopLayer","SOD-923","9.1440","6.9850","90","12.3V Clamp 8.7A (8/20µs) Ipp Tvs Diode Surface Mount SOD-923",""
+"D3","ESD9X5.0ST5G","TopLayer","SOD-923","13.5890","6.9850","90","12.3V Clamp 8.7A (8/20µs) Ipp Tvs Diode Surface Mount SOD-923",""
+"SW1","SW PUSHBUTTON","TopLayer","Micro_push","13.1572","14.7066","180","Tactile Switch 3x4x2mm SMD 2-Pin",""
+"U7","LDO_5V_3V","TopLayer","SOT25","4.8768","14.1986","90","LDO Voltage Regulators 600mA CMOS LDO 50mA 3.3V 250mV","LDO 5-3.3"
+"U6","BQ24040DSQR","TopLayer","10-WFDFN","1.3208","13.8684","90","IC BATT CHG LI-ION 1 CELL 10SON",""
+"R18","Res1","TopLayer","resc0402","1.5494","16.0782","180","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"R17","Res1","TopLayer","resc0402","2.1082","11.6332","180","Thick Film Resistor -  2Kohm, 1%, 0402","2k"
+"R16","Res1","TopLayer","resc0402","2.1082","10.6172","360","Thick Film Resistor -  1Kohm, 1%, 0402","1k"
+"R15","Res1","TopLayer","resc0402","1.5494","16.8910","360","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"R14","","TopLayer","resc0402","2.2352","4.2926","360","Thick Film Resistor - 680 ohm, 1%, 0402","680R"
+"C16","0.1uF","TopLayer","CAPC0402","2.5971","2.3691","90","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C11","0.1uF","TopLayer","CAPC0402","4.4958","10.0330","180","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"U4","LDO_5V_3V","BottomLayer","SOT25","1.7996","8.6297","90","LDO Voltage Regulators 600mA CMOS LDO 50mA 3.3V 250mV","LDO 5-3.3"
+"R10","Res1","BottomLayer","resc0402","1.3967","5.7942","180","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"H1","HEADER 6","TopLayer","HEADER_2MM","18.9962","12.9065","90","Header, 6-Pin,2MM",""
+"R12","Res1","TopLayer","resc0402","17.8718","4.0350","270","Thick Film Resistor -  1Kohm, 1%, 0402","1k"
+"R11","Res1","TopLayer","resc0402","18.8573","4.0350","90","Thick Film Resistor -  1Kohm, 1%, 0402","1k"
+"Q4","MMBT2222AM3T5G","TopLayer","SOT-723","18.3676","5.7398","0","Bipolar Transistors - BJT SS SOT-723 GP TRANSISTOR NPN",""
+"Q3","MMBT2222AM3T5G","TopLayer","SOT-723","18.3489","2.1013","180","Bipolar Transistors - BJT SS SOT-723 GP TRANSISTOR NPN",""
+"Q2","Transistor NPN","BottomLayer","SOT95P240X115-3N","1.7465","2.9369","270","Bipolar Transistors - Pre-Biased 100mA 50V BRT NPN",""
+"C4","0.1uF","BottomLayer","CAPC0402","1.1963","12.8803","360","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"A1","Ant","TopLayer","ANT_2450AT43B100E","5.0292","32.2580","180","High Frequency Ceramic Solutions 4-Pin SMD T/R",""
+"D2","RED LED","TopLayer","LED_0603","2.4689","20.7340","90","LED, RED,SMD, 0603",""
+"U5","TPS2113ADRBR","TopLayer","SON-8","2.1993","6.8836","90","Power Switch ICs -Autoswitching Pwr Mux 3-mm × 3-mm SON-8",""
+"U3","74ABT125PW_112","BottomLayer","74ABT125PW","10.0000","9.6266","180","Buffers & Line Drivers QUAD BUFFER 3-S",""
+"U2","GL823 Version A","TopLayer","QFN24-4x4MM","5.1001","24.9990","90","USB 2.0 SD/MMC Card Reader Controller version A","-"
+"U1","ESP32-PICO-D4","TopLayer","ESP32_PICO_D4_2","14.2926","23.5090","270","RF System on a Chip - SoC SIP module ESP32 with 4MByte Flash",""
+"R9","Res1","TopLayer","RESC0402","3.5560","20.3708","270","Thick Film Resistor -  2Kohm, 1%, 0402","2k"
+"R8","Res1","BottomLayer","RESC0402","15.0546","11.9121","360","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"R7","","TopLayer","RESC0402","9.8044","10.0712","90","Thick Film Resistor - 3.3 Kohm, 1%, 0402","3.3k"
+"R6","","BottomLayer","RESC0402","14.8768","8.9662","180","Thick Film Resistor - 3.3 Kohm, 1%, 0402","3.3k"
+"R5","","BottomLayer","RESC0402","5.5213","9.7316","270","Thick Film Resistor - 3.3 Kohm, 1%, 0402","3.3k"
+"R4","Res1","BottomLayer","RESC0402","15.0546","10.9474","180","Thick Film Resistor - 3.3 Kohm, 1%, 0402","3.3k"
+"R3","Res1","BottomLayer","RESC0402","5.5313","11.4440","90","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"R2","","TopLayer","RESC0402","5.8500","20.7748","90","Thick Film Resistor - 680 ohm, 1%, 0402","680R"
+"R1","Res1","TopLayer","RESC0402","14.0132","29.1846","90","Thick Film Resistor -  10Kohm, 1%, 0402","10k"
+"J3","USB MALE","TopLayer","MOLEX_48037-0001_0","10.0000","3.9000","0","USB A-type Plug Male PCB R/A",""
+"J2","DM3AT-SF-PEJM5(40)","BottomLayer","SD_CARD_CONNECTOR","10.0000","19.5000","0","Micro SD Memory Card Socket",""
+"D1","BAT760-7","TopLayer","SOD2513X120N","1.2246","1.9812","270","Schottky Diodes & Rectifiers 1A 30V LF1A, 2-Pin SOD-323",""
+"C14","10uF","TopLayer","CAPC0603","4.7752","18.0162","360","Ceramic Capacitor,10uF,16V,0603","10uF"
+"C13","10uF","TopLayer","CAPC0603","4.6736","11.0236","360","Ceramic Capacitor,10uF,16V,0603","10uF"
+"C10","0.1uF","TopLayer","CAPC0402","8.6949","23.6407","270","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C9","0.1uF","TopLayer","CAPC0402","8.2042","28.7020","180","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C8","0.1uF","TopLayer","CAPC0402","6.8718","20.7748","90","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C7","0.1uF","TopLayer","CAPC0402","13.0480","29.1746","270","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C3","0.1uF","TopLayer","CAPC0402","1.2116","24.6634","270","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C2","0.1uF","TopLayer","CAPC0402","18.6262","29.1947","90","Ceramic Capacitor,100nF,16V,0402","0.1uF"
+"C1","0.1uF","TopLayer","CAPC0402","15.4610","29.1947","90","Ceramic Capacitor,100nF,16V,0402","0.1uF"

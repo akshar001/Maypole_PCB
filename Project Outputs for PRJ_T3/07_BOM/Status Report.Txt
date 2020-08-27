@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At PM 12:39:07 On 06-08-2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PRJ_T3.PrjPCB]
+   Generated File[Bill of Materials-PRJ_T3.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At PM 12:39:07 On 06-08-2020

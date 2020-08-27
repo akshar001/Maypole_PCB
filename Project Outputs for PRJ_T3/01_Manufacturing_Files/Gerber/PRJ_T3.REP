@@ -1,0 +1,413 @@
+*************************************************************
+FileName = PRJ_T3.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Pad Master
+      File : PRJ_T3.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PRJ_T3.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D37
+    D39
+    D42
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PRJ_T3.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PRJ_T3.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PRJ_T3.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D73
+    D78
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PRJ_T3.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D25
+    D34
+    D35
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PRJ_T3.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D42
+    D58
+    D61
+    D62
+    D99
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PRJ_T3.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : PRJ_T3.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D37
+    D39
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 3
+      File : PRJ_T3.GM3
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D37
+    D39
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : PRJ_T3.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+    D37
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PRJ_T3.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PRJ_T3.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D39
+    D40
+    D101
+    D102
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PRJ_T3.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PRJ_T3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D25
+    D34
+    D35
+    D36
+    D37
+    D39
+    D40
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PRJ_T3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D25
+    D34
+    D35
+    D43
+    D44
+    D45
+    D46
+    D47
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+

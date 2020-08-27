@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Harit\Harit\#Projects\PIC0_D4_SD_card\PICOD4_T3_LDO\PIC0_D4_SD_card_T3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=prj_t3-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=prj_t3-slotholes.txt|DrillLayers=gtl,gbl
