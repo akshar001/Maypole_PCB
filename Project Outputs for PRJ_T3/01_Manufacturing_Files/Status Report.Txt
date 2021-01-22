@@ -1,6 +1,6 @@
 Output: NC Drill Files
 Type  : NC Drill
-From  : PCB Document [PCB_PANEL.PcbDoc]
+From  : PCB Document [PIC0_D4_SD_card_T3.PcbDoc]
    Generated File[PRJ_T3-RoundHoles.TXT]
    Generated File[PRJ_T3-SlotHoles.TXT]
    Generated File[PRJ_T3.LDP]
@@ -10,4 +10,4 @@ From  : PCB Document [PCB_PANEL.PcbDoc]
 Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At PM 12:37:49 On 11-08-2020
+Finished Output Generation At 10:14:21 On 21-01-2021

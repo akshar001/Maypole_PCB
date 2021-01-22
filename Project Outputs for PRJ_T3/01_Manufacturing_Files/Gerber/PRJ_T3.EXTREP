@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: PRJ_T3.GBR   11-08-2020  PM 12:37:36
+Gerber File Extension Report For: PRJ_T3.GBR   21-01-2021  10:14:20
 ------------------------------------------------------------------------------------------
 
 
@@ -14,10 +14,8 @@ Layer Extension     Layer Description
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GM1                Mechanical 1                            
 .GM2                Mechanical 2                            
-.GM3                Mechanical 3                            
-.GM4                Mechanical 4                            
+.GM10               Mechanical 10                           
 .GKO                Keep-Out Layer                          
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       

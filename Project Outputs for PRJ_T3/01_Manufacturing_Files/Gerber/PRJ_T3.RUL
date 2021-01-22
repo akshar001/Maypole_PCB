@@ -1,5 +1,5 @@
-DRC Rules Export File for PCB: D:\Harit\Harit\#Projects\PIC0_D4_SD_card\PICOD4_T3_LDO\PCB_PANEL.PcbDoc
+DRC Rules Export File for PCB: D:\VEGG\PROJECTS\Maypole\PIC0_D4_SD_card_T3.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

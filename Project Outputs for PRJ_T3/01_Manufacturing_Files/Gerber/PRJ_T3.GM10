@@ -1,7 +1,7 @@
 G04*
 G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,20.2.6 (244)*
 G04*
-G04 Layer_Color=16711935*
+G04 Layer_Color=8388736*
 %FSLAX44Y44*%
 %MOMM*%
 G71*
@@ -13,4 +13,13 @@ G04 #@! TF.FilePolarity,Positive*
 G04*
 G01*
 G75*
+%ADD14C,0.0762*%
+D14*
+X0Y-340000D02*
+Y0D01*
+X200000D01*
+Y-340000D02*
+Y0D01*
+X0Y-340000D02*
+X200000D01*
 M02*
